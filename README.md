@@ -9,4 +9,4 @@ A console-based chess game written in Python that allows two players to take tur
 
 ## How to run
 ```bash
-python chess_min.py
+python chess.py
